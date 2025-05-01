@@ -73,8 +73,6 @@ This submission includes full functionality with a hosted live link, GitHub sour
 
 
 
-- `./screenshots/linting-applied.png`
-- `./screenshots/typescript-usage.png`
 
 ---
 
