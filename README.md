@@ -62,16 +62,25 @@ CampusHub is a modern, responsive Web2 platform designed to **aggregate, display
 
 ## 📸 Screenshots
 
-### Hero Section  
-![Hero](./screenshots/hero.png)
+### Main Section  
+![Hero](./screenshots/s1.png)
 
 ### Event Dashboard  
-![Events](./screenshots/events.png)
+![Events](./screenshots/s2.png)
 
 ### Event Submission  
-![Submit](./screenshots/submit.png)
+![Submit](./screenshots/s3.png)
 
-> (Add your screenshots in a `/screenshots` folder for GitHub preview)
+### About us  
+![Submit](./screenshots/s4.png)
+
+### Blog 
+![Submit](./screenshots/s5.png)
+
+### Contact us
+![Submit](./screenshots/s6.png)
+
+
 
 ---
 
