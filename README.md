@@ -2,57 +2,89 @@
 
 🚀 [Live Site →](https://campushubby.netlify.app/)
 
-CampusHub is a modern, responsive Web2 platform designed to **aggregate, display, and manage tech-related college events** like hackathons, workshops, and tech talks. Built with React, Tailwind CSS, Node.js, and MongoDB, it enables users to explore events and submit their own seamlessly.
+CampusHub is a sleek and intuitive Web2 platform that helps students **discover and promote college tech events**—including hackathons, workshops, and tech talks. Developed for the **Devdock.ai Week 5 Challenge**, this app demonstrates front-end/backend integration with clean design, scalability, and a focus on user experience.
+
+---
+
+## 🧠 Built For
+
+> 🎯 **Devdock.ai Week 5 Challenge – Web2 Event Aggregator App**
+
+This submission includes full functionality with a hosted live link, GitHub source, and screenshots showing:
+- Code enhancement practices
+- UI components
+- Form validation
+- State management
+- Clean file structure for scalability
 
 ---
 
 ## 🖥️ Features
 
 ### ✅ Homepage (Landing Page)
-- ✨ Modern hero section with a catchy headline: *"Fuel Innovation, Spark Connection"*
-- 🎯 Event highlight card showing featured event (date, location)
-- 🔗 **Get Started** button navigates to the events page
-- 🔒 Trusted By section with logos of organizations (mocked)
+- ✨ Modern Hero Section: *"Fuel Innovation, Spark Connection"*
+- 🎯 Featured Event Highlight Card
+- 🔗 "Get Started" CTA → Events Page
+- 🔒 Trusted By section with organization logos (mocked)
 
 ---
 
 ### 📅 Event Dashboard
-- 📌 Lists all upcoming college tech events
-- 🔍 Filter options by:
-  - Event Type (Hackathon, Workshop, Tech Talk)
+- 📌 Displays all upcoming events
+- 🔍 **Filter Events** by:
+  - Type (Hackathon, Workshop, Tech Talk)
   - Date Range
   - College Name
   - Location
-- 📘 Click on any event card to view:
-  - Full event description
+- 📘 Detailed Event View includes:
+  - Description
+  - Date & Time
   - Registration link
-  - Date, location, and type
+  - College & Location
 
 ---
 
 ### 📝 Submit Your Event
-- Users can manually submit events via a form
-- Fields include:
-  - Event Name
-  - Event Type
-  - Event Date
-  - College Name
-  - Location
-  - Description
-  - Registration Link
-- Submitted events are stored in a backend MongoDB database
+- Users can submit new events via form
+- Required fields:
+  - Event Name, Type, Date
+  - College, Location
+  - Description, Registration Link
+- Form includes validation and stores data in **MongoDB backend**
 
+---
+
+## 💡 Enhancements for Code Quality using devdock.ai
+> Attached screenshots show how I improved code quality through:
+
+- ✅ Modular and reusable React components (`EventCard`, `Navbar`, `Filter`)
+- ✅ Type safety using **TypeScript**
+- ✅ Folder-level separation (`components`, `pages`, `services`)
+- ✅ Clean commits and version control via Git
+- ✅ ESLint integration for consistent coding standards
+- ✅ Fully responsive with **TailwindCSS**
+
+📸 Screenshots of enhancements using devdock.ai
+![image](https://github.com/user-attachments/assets/5860023d-7c07-4301-9132-80d31f30e130)
+
+![image](https://github.com/user-attachments/assets/12b3d5bd-a9aa-4f00-b3d1-dde193da6936)
+
+![image](https://github.com/user-attachments/assets/0c18f7ce-91e0-44fb-ace1-6dc09eb5e9d2)
+
+
+
+- `./screenshots/linting-applied.png`
+- `./screenshots/typescript-usage.png`
 
 ---
 
 ## 🧪 Mock Data
-
-- The event list includes 10+ dummy entries simulating scraping from college websites.
-- All data is placeholder but follows real-world event formats.
+- App includes 10+ dummy events simulating real college events
+- Structure mirrors scraped data from college websites
 
 ---
 
-## 📸 Screenshots
+## 📸 App Screenshots
 
 ### Main Section  
 ![Hero](./screenshots/s1.PNG)
@@ -63,15 +95,14 @@ CampusHub is a modern, responsive Web2 platform designed to **aggregate, display
 ### Event Submission  
 ![Submit](./screenshots/s3.PNG)
 
-### About us  
-![Submit](./screenshots/s4.PNG)
+### About Page  
+![About](./screenshots/s4.PNG)
 
-### Blog 
-![Submit](./screenshots/s5.PNG)
+### Blog Page  
+![Blog](./screenshots/s5.PNG)
 
-### Contact us
-![Submit](./screenshots/s6.PNG)
-
+### Contact Page  
+![Contact](./screenshots/s6.PNG)
 
 
 ---
@@ -82,9 +113,11 @@ CampusHub is a modern, responsive Web2 platform designed to **aggregate, display
 
 ---
 
-## 📬 Feedback
+## 📬 Feedback & Suggestions
 
-Have feedback or ideas? Feel free to open an issue or drop a suggestion!
+Have feedback or want to suggest improvements?
+- Open an issue on [GitHub](https://github.com/swethaganeshh/CampusHub)
+- Or connect on LinkedIn (if you'd like to add)
 
 ---
 
