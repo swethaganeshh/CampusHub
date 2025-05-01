@@ -42,14 +42,6 @@ CampusHub is a modern, responsive Web2 platform designed to **aggregate, display
   - Registration Link
 - Submitted events are stored in a backend MongoDB database
 
----
-
----
-
-## 🚀 Deployment
-
-- **Frontend:** [Netlify](https://campushubby.netlify.app/)
-- **Backend:** Can be deployed on Render, Railway, or Heroku
 
 ---
 
